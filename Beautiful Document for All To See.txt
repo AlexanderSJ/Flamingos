@@ -1,2 +1,2 @@
 Hello
-This is on the Branch "Alex"
+This is now merged with "master" after performing a Pull Request.
