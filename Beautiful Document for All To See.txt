@@ -1,2 +1,2 @@
 Hello
-This is now merged with "master" after performing a Pull Request.
+This is still in "Alex" after the merge.
