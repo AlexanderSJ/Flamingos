@@ -1,2 +1,3 @@
 Hello
 This is now merged with "master" after performing a Pull Request.
+Editing this document
