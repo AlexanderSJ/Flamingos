@@ -1,0 +1,15 @@
+ {"My Information":
+  [
+    {
+    "FirstName": " ",
+    "LastName": " ",
+    "PreferredName": " ",
+    "TeamName": " ",
+    "SeatLocation": " ",
+    "Roles":
+      [ "Team Member", ...]
+    }
+  ]
+ }
+ 
+ You can have multiple roles
